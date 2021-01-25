@@ -7,8 +7,12 @@ camro bot is currently in alpha stage and is very new, there is no command handl
 # v.0.1
 Camro bot has these features:
 
-help - displays help for the bot
+help - displays help for the bot  
+
 av - view your own avatar, or specify a user to view their avatar
+
 kick - kick a mentioned user from your guild
+
 server - view information about the current guild
+
 ping - view latency and api latency
